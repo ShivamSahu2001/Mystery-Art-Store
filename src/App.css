@@ -1,0 +1,55 @@
+.App {
+  width: 100%;
+  height: auto;
+  min-height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: aquamarine;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+.footer{
+  background-color: rgb(147, 147, 147);
+  padding-top: 0.4vw;
+  text-align: center;
+}
+h5{
+  font-size: 18px;
+}
+.contact{
+  font-size: 1.8vw;
+  margin-right: 15%;
+  font-weight: 600;
+  color: rgb(60, 60, 60);
+}
+.Email{
+  display: flex;
+  margin-left: 40vw;
+}
+.gmail{
+  font-weight: 700;
+}
+.icons{
+  display: flex;
+  margin-left: 38vw;
+}
+.LinkedIn {
+  padding-left: 2vw;
+  font-size: 30px;
+  cursor: pointer;
+  color: rgb(19, 19, 168);
+}
+.Instagram {
+  padding-left: 2vw;
+  font-size: 30px;
+  cursor: pointer;
+  color: rgb(214, 51, 78);
+}
+.Twitter{
+  padding-left: 2vw;
+  font-size: 30px;
+  cursor: pointer;
+  color: rgb(18, 18, 240);
+}
